@@ -1,0 +1,13 @@
+{
+  "name": "@deniseyu/how-to-npm",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": "http://github.com/deniseyu/npm",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
